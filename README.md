@@ -20,3 +20,6 @@ func (r *room) ServeHTTP(w http.ResponseWriter, req *http.Request) {
 	socket, err := upgrader.Upgrade(w, req, nil)
 }
 ```
+
+## 調査結果
+Issueとしてあげる
