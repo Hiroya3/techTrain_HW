@@ -1,7 +1,7 @@
-# webSocket_golang
-webSocketについての勉強用リポジトリ
+# tecgTrain_HW
+techTrainでの面談用リポジトリ
 
-## 調査内容
+## 調査内容1 -webSocket-
 
 1. webSocketとは
 2. 以下のコードが何をしているのか
@@ -21,5 +21,5 @@ func (r *room) ServeHTTP(w http.ResponseWriter, req *http.Request) {
 }
 ```
 
-## 調査結果
-Issueとしてあげる
+## 調査内容2 -TCP/IP-
+
