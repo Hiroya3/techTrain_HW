@@ -4,7 +4,9 @@ techTrainでの面談用リポジトリ
 ## 調査内容1 -webSocket-
 
 1. webSocketとは
+https://github.com/Hiroya3/techTrain_HW/issues/1
 2. 以下のコードが何をしているのか
+https://github.com/Hiroya3/techTrain_HW/issues/2
 
 ```
 import "github.com/gorilla/websocket"
